@@ -4,7 +4,7 @@
 
 ## 预览
 
-直接用浏览器打开 `index.html` 即可查看效果。
+在线预览：https://lizimu0.github.io/company-website-template/
 
 ## 特性
 
